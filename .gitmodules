@@ -1,0 +1,4 @@
+[submodule "force-app/main/submodules/moduleA"]
+	path = force-app/main/submodules/moduleA
+	url = https://github.com/VicccccW/submodule-demo-sfdx-mono.git
+	branch = moduleA/v1.0.0
